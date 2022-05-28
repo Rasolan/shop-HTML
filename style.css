@@ -3,11 +3,23 @@
     background: #e0e0e0;
     box-shadow:  20px 20px 60px #bebebe,
                  -20px -20px 60px #ffffff;
+    margin: auto;
+    padding: auto;
+    list-style-type: none;
+    position: relative;
+    width: auto;
+    height: auto;
+    overflow: hidden;
 
 }
-.menu h1 {
-    list-style: none;
-    margin: 10;
-    padding: 0;
-    color: #7112c9;
+.menu h1{
+    font-size: 1.5em;
+    text-align: center;
+    padding: 0.5em;
+    margin: 0.5em;
+    color: #000;
+    background: #e0e0e0;
+    border-radius: 50px;
+    box-shadow:  20px 20px 60px #bebebe,
+                 -20px -20px 60px #ffffff;
 }
